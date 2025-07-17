@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 
 const weddingDate = new Date("2026-09-12T17:00:00");
 
